@@ -6,4 +6,4 @@ Hello! Here are the modules from 3 of the 10 AMSLI-AMEP competitions with releva
 |    7    |    Binomial Theorem     | [[amep-g9-d7.pdf]] |
 |    8    |  Cyclic Quadrilaterals  | [[amep-g9-d8.pdf]] |
 
-Return to G9 MTAP Master Website: [[mtap]]
+Return to G9 MTAP Compilation Master Website: [[mtap]]
